@@ -1,0 +1,16 @@
+AiVsHuman/AiVsHuman.rar
+AiVsHuman/3500/model.safetensors
+AiVsHuman/ai_human_model/model.safetensors
+AiVsHuman/ai_human_model/training_args.bin
+BreastCancer/breast-cancer.csv
+optimizingFmnist/fashion-mnist_train.csv
+PhisingMail/exported-assets.zip
+PhisingMail/HC3.jsonl
+PhisingMail/PhisingMail.rar
+PhisingMail/my-phishing-detector/model.safetensors
+PhisingMail/New folder/sample_submission.csv
+PhisingMail/New folder/model.safetensors
+PhisingMail/New folder/ai_detector_model.pkl
+PhisingMail/New folder/ai_detector.pkl
+PhisingMail/New folder/submission.csv
+optimizingFmnist/fashion-mnist_test.csv
